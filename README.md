@@ -68,13 +68,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### Mac/Linux
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
 ---
 
 ## 3. Install Dependencies
@@ -427,8 +420,6 @@ Pandas is appropriate for this assignment scale, but not for large production wo
 I would migrate to:
 
 * Spark
-* Polars
-* DuckDB
 
 depending on workload characteristics.
 
@@ -439,8 +430,6 @@ depending on workload characteristics.
 The pipeline would be orchestrated using:
 
 * Airflow
-* Dagster
-* Prefect
 
 This would provide:
 
