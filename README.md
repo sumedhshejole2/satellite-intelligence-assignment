@@ -561,5 +561,6 @@ This repository contains:
 Loom video link:
 
 ```text
-
+Part 1: https://www.loom.com/share/72db4c6cc35741d092e5806124fc1df2
+Part 2: https://www.loom.com/share/f97f2cef284947639601d2ea831f2138
 ```
